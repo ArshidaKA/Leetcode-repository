@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
