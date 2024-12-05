@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
