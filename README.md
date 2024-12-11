@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
