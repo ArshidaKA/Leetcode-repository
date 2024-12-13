@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0344-reverse-string) |
+| [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2481-strictly-palindromic-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0066-plus-one) |
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
+| [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
+| [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 ## Queue
 |  |
