@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Queue
 |  |
 | ------- |
