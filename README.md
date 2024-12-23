@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
