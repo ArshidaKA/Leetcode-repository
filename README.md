@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2481-strictly-palindromic-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
+| [0953-reverse-only-letters](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0953-reverse-only-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
