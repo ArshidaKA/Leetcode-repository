@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
+| [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
 ## Simulation
 |  |
 | ------- |
