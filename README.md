@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1019-squares-of-a-sorted-array) |
