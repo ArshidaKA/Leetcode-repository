@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0941-sort-array-by-parity) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
 | [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
