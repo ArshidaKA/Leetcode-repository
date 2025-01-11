@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0953-reverse-only-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3636-check-balanced-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3636-check-balanced-string) |
 ## Array
 |  |
 | ------- |
