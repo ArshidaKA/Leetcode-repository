@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0953-reverse-only-letters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3636-check-balanced-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3636-check-balanced-string) |
 ## Array
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
 ## Simulation
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
