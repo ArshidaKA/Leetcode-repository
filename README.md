@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3183-find-the-k-or-of-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3183-find-the-k-or-of-an-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
+| [3183-find-the-k-or-of-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3183-find-the-k-or-of-an-array) |
 ## Sorting
 |  |
 | ------- |
