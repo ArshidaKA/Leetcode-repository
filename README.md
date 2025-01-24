@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3183-find-the-k-or-of-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3183-find-the-k-or-of-an-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
+| [3651-transformed-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3651-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
+| [3651-transformed-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3651-transformed-array) |
 ## Brainteaser
 |  |
 | ------- |
