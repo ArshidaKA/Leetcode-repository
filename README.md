@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0953-reverse-only-letters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1651-shuffle-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1651-shuffle-string) |
 | [3636-check-balanced-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3636-check-balanced-string) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1651-shuffle-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1651-shuffle-string) |
 | [3183-find-the-k-or-of-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3183-find-the-k-or-of-an-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3519-find-the-number-of-winning-players) |
 | [3651-transformed-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3651-transformed-array) |
