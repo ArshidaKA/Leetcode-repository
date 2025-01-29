@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1651-shuffle-string) |
+| [3207-make-three-strings-equal](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3207-make-three-strings-equal) |
 | [3636-check-balanced-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3636-check-balanced-string) |
 ## Array
 |  |
