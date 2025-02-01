@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1651-shuffle-string) |
 | [3207-make-three-strings-equal](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3207-make-three-strings-equal) |
 | [3636-check-balanced-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3636-check-balanced-string) |
+| [3684-substring-matching-pattern](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3684-substring-matching-pattern) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3684-substring-matching-pattern](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3684-substring-matching-pattern) |
 ## Recursion
 |  |
 | ------- |
