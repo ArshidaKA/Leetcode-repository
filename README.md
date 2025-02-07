@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0953-reverse-only-letters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0889-buddy-strings) |
 | [1217-relative-sort-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
