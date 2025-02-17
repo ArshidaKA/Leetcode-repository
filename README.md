@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0066-plus-one) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0242-valid-anagram) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
