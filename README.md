@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0342-power-of-four) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0344-reverse-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0342-power-of-four) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
 | [3651-transformed-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3651-transformed-array) |
