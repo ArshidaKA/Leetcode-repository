@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0889-buddy-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3684-substring-matching-pattern](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3684-substring-matching-pattern) |
 ## Recursion
