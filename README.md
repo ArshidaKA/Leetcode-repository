@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0953-reverse-only-letters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1651-shuffle-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
