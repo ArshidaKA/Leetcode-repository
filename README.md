@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
 | [1289-day-of-the-week](https://github.com/ArshidaKA/Leetcode-repository/tree/master/1289-day-of-the-week) |
+| [2238-a-number-after-a-double-reversal](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/ArshidaKA/Leetcode-repository/tree/master/2752-sum-multiples) |
