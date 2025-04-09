@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-make-three-strings-equal](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3207-make-three-strings-equal) |
 | [3636-check-balanced-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3636-check-balanced-string) |
 | [3684-substring-matching-pattern](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3684-substring-matching-pattern) |
+| [3811-reverse-degree-of-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0874-backspace-string-compare) |
 | [3651-transformed-array](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3651-transformed-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/ArshidaKA/Leetcode-repository/tree/master/3811-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
