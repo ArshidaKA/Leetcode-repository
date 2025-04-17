@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ArshidaKA/Leetcode-repository/tree/master/0169-majority-element) |
 ## Counting Sort
 |  |
